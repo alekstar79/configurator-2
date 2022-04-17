@@ -11,4 +11,4 @@
 
 Для запуска приложения потребуется что-нибудь из LAMP, LEMP, XAMPP, WAMP...
 
-Посмотреть, результат работы [приложения](https://alekstar79.github.io)
+Посмотреть, результат работы [приложения](https://alekstar79.github.io/configurator-2/)
