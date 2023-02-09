@@ -3,7 +3,7 @@
 ### Конфигуратор стоимости доставки товара в регионы с наценками за вес посылки.
 
 > Структурный рефакторинг существующей [кодовой базы](https://github.com/alekstar79/cost-configurator-1) через классы (web components).  
-> Использованны Custom Elements, Shadow DOM, HTML Templates.
+> Использованы Custom Elements, Shadow DOM, HTML Templates.
 
 ![review](https://github.com/alekstar79/cost-configurator-2/blob/main/assets/screenshot.png "Обзор структуры")
 
